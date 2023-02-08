@@ -1,0 +1,9 @@
+IntCitySmartBus	Noida	Agra	112	33
+EXELRIDES	Pune	Bangalore	221	15
+KKaveri	Bangalore	Hyderabad	121	24
+Jabbar	Panjim	Majestic	201	31
+Vikram	Yeshwantpur	Panjim	87	19
+zingbus	Delhi	Manali	73	44
+starbus	GreaterNoida	Delhi	43	11
+SKTravels	MadhyaPradesh	Bhopal	222	67
+BhirguExpress	Kashipur	Shrinagar		233	11
